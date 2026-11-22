@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "rift-game",
+    "name": "Rift Game",
     "slug": "rift-game",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "riftgame",
-    "userInterfaceStyle": "automatic",
+    "userInterfaceStyle": "dark",
     "ios": {
       "icon": "./assets/expo.icon"
     },
@@ -28,7 +28,7 @@
       [
         "expo-splash-screen",
         {
-          "backgroundColor": "#208AEF",
+          "backgroundColor": "#04110b",
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
