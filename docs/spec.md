@@ -86,7 +86,7 @@ Each milestone ends with something you can run in Expo Go or from the command li
 - All 12 Phase 1 heroes with final art from the pipeline (7 poses plus a portrait each), skills, and personalities.
 - Balance pass using the simulator.
 - Sounds and UI icons from Kenney and Freesound (CC0), all listed in `CREDITS.md`.
-- First EAS build through TestFlight once the Apple developer account exists. This is optional for Phase 1, since Expo Go covers testing.
+- First EAS build through TestFlight, following `docs/testflight.md`: enroll in the Apple Developer Program, then build and invite the family. This was moved here from Phase 0, and Expo Go covers testing until then.
 - **Done when:** the kids play through the campaign without help.
 
 ## Game rules used by the formats

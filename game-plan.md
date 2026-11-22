@@ -99,7 +99,7 @@ Each phase ends with something the kids can play. Times assume a few evenings a 
 
 | Phase | What's playable at the end | Rough time |
 | --- | --- | --- |
-| 0. Foundations | A test app on your iPhone through TestFlight; accounts set up | 2 to 3 weeks |
+| 0. Foundations (done) | A test app on your iPhone through Expo Go; repo, spec and art keys set up (TestFlight moved to the end of Phase 1) | 2 to 3 weeks |
 | 1. Core loop | Steps earn currency, summon heroes, battle through 10 campaign stages with a team of five | 2 to 3 months |
 | 2. Kingdom | A home base that produces while you're away and upgrades heroes | 1 to 2 months |
 | 3. Map and landmarks | Real places as spawn points and battle sites, Grey zones near home to clear | 2 months |
@@ -108,13 +108,15 @@ Each phase ends with something the kids can play. Times assume a few evenings a 
 
 All five phases is roughly 8 to 10 months of evenings. That's long, which is why every phase is designed to be fun on its own: if you stop after phase 1, the kids still have a game.
 
-**Phase 0 checklist**
+**Phase 0 checklist** (done Nov 22, 2026)
 
-- [ ] Expo Go installed on your iPhone (the Apple developer account waits until the end of Phase 1)
-- [ ] Expo account and a first cloud build installed through TestFlight
-- [ ] GitHub repo for the project
-- [ ] Midjourney plan for concept art; Google AI Studio key for Nano Banana
-- [ ] A spec doc and CLAUDE.md rules in the repo, as with your other projects
+- [x] Expo Go installed on your iPhone (the Apple developer account waits until the end of Phase 1)
+- [x] GitHub repo for the project
+- [x] Midjourney plan for concept art; Google AI Studio key for Nano Banana
+- [x] A spec doc and CLAUDE.md rules in the repo, as with your other projects
+- [x] TestFlight build settings ready in the repo; steps in `docs/testflight.md`
+
+Moved to the end of Phase 1 (spec milestone M7): Apple developer account, Expo account and the first cloud build installed through TestFlight.
 
 ## Phase 1 in detail
 
