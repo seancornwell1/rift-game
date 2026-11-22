@@ -1,6 +1,6 @@
 # Rift Game: Phase 1 Spec
 
-Source: `game-plan.md.docx` (Game Plan, Nov 19, 2026). This spec turns the plan's Phase 1 into milestones you can build, and fixes the data formats for game content. Rift Game is a placeholder name.
+Source: `game-plan.md` (Game Plan, Nov 19, 2026). This spec turns the plan's Phase 1 into milestones you can build, and fixes the data formats for game content. Rift Game is a placeholder name.
 
 ## Phase 1 goal
 

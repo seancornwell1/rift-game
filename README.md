@@ -2,7 +2,7 @@
 
 A family iPhone game: walk to earn summons, collect heroes from dimensions at war, battle with a team of five. Built with Expo (SDK 58) and run in Expo Go.
 
-- Game plan: `game-plan.md.docx`
+- Game plan: `game-plan.md`
 - Phase 1 spec and data formats: [docs/spec.md](docs/spec.md)
 - Project rules: [CLAUDE.md](CLAUDE.md)
 - Asset tools: [tools/README.md](tools/README.md)

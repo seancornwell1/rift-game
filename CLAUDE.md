@@ -2,7 +2,7 @@
 
 # Rift Game: project rules
 
-A family iPhone game: walk to earn summons, collect heroes from dimensions at war, battle with a team of five. The game plan is `game-plan.md.docx`; the build spec with milestones and data formats is `docs/spec.md`. Read the spec before starting a milestone.
+A family iPhone game: walk to earn summons, collect heroes from dimensions at war, battle with a team of five. The game plan is `game-plan.md` (converted from the original `game-plan.md.docx`); the build spec with milestones and data formats is `docs/spec.md`. Read the spec before starting a milestone.
 
 ## Expo Go only (for now)
 
